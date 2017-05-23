@@ -1,0 +1,16 @@
+{
+  "name": "queue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "queue.js",
+  "scripts": {
+    "test": "mocha queue.spec.js"
+  },
+  "author": "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1",
+    "should": "^11.2.1"
+  }
+}
