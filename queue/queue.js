@@ -42,8 +42,8 @@ function transformData( data ) {
 
 /* uncomment to run the functions that simulate
 
-1) adding something to the stack
-2) taking it off of the stack
+1) adding something to the queue
+2) taking it off of the queue
 3) doing something with it
 
 
